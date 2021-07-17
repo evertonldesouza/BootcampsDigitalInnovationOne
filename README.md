@@ -1,2 +1,16 @@
-# LandingPage-HiringCoders
- Desafio #1: Ecommerce / Landing page - Desafio - Criar um sistema de e-commerce para cadastro de email na landing page para recebimento de novidades e promoções.  
+
+# First Hiring Coders's Coding Challenge
+
+## Previews
+
+![preview 01](./assets/img/preview1.png)
+
+![preview 02](./assets/img/preview2.png)
+
+![preview 03](./assets/img/preview3.png)
+
+# Tecnologias
+
+- HTML5
+- CSS3
+- Javascript
