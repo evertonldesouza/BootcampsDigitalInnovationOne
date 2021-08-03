@@ -1,18 +1,12 @@
 
-# First Hiring Coders's Coding Challenge
+# Bootcamps Digital Innovation One
 
 ## Previews
 
-![preview 01](./assets/img/preview1.png)
-
-![preview 02](./assets/img/preview2.png)
-
-![preview 03](./assets/img/preview3.png)
 
 # Tecnologias
 
-- HTML5
-- CSS3
+- HTML5 e CSS3
 - Javascript
+- Csharp
 
-Acesse o site [aqui](https://tiotomstore.netlify.app/)
